@@ -13,6 +13,7 @@ Let's get started!
 
 ? What application platform does your project use? Python
 ? What version of Python do you want to use? 3.13.1
+? What port do you want your app to listen on? 8000
 ? What is the command you use to run your app (e.g., gunicorn 'myapp.example:app' --bind=0.0.0.0:8000)? gunicorn 'myapp.example:app' --bind=0.0.0.0:8000
 
 ✔ Created → .dockerignore
